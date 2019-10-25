@@ -20,6 +20,10 @@
 - [**React Podcast**](https://reactpodcast.simplecast.fm/)
 - [**Reason Town**](https://reason.town/)
 - [**Elixir Outlaws**](https://elixiroutlaws.com/)
+- [**Base.cs Podcast**](https://www.codenewbie.org/basecs/)
+- [**CodeNewbie**](https://www.codenewbie.org/podcast)
+- [**Command Line Heroes**](https://www.redhat.com/en/command-line-heroes)
+- [**Syntax - Tasty Web Development Treats**](https://syntax.fm)
 
 ## Blogs / Mailing Lists for Software Developers
 

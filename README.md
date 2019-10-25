@@ -18,24 +18,24 @@
 - [**Full Stack Radio**](http://www.fullstackradio.com/)
 - [**Elm Town**](https://elmtown.simplecast.fm/)
 - [**React Podcast**](https://reactpodcast.simplecast.fm/)
-- [**Reason Town**](https://reason.town/)
+- [**Reason Town**](https://player.fm/series/reason-town)
 - [**Elixir Outlaws**](https://elixiroutlaws.com/)
 
 ## Blogs / Mailing Lists for Software Developers
 
-- [**Dan Abramov**](overreacted.io)
-- [**John Papa**](johnpapa.net)
+- [**Dan Abramov**](https://overreacted.io)
+- [**John Papa**](https://johnpapa.net)
 - [**Rachel Andrew**](https://rachelandrew.co.uk/)
-- [**David Walsh**](davidwalsh.name)
-- [**Wes Bos**](wesbos.com)
-- [**Emma Wedekind**](dev.to/emmawedekind)
-- [**Close Brace**](closebrace.com)
-- [**Simo Ahava**](simoahava.com/)
-- [**Kent Dodds**](kentcdodds.com)
-- [**Dr. Axel Rauschmayer**](2ality.com)
-- [**CSS Tricks**](css-tricks.com)
-- [**Sophie Alpert**](sophiebits.com)
+- [**David Walsh**](https://davidwalsh.name)
+- [**Wes Bos**](https://wesbos.com)
+- [**Emma Wedekind**](https://dev.to/emmawedekind)
+- [**Close Brace**](https://closebrace.com)
+- [**Simo Ahava**](https://simoahava.com/)
+- [**Kent Dodds**](https://kentcdodds.com)
+- [**Dr. Axel Rauschmayer**](https://2ality.com)
+- [**CSS Tricks**](https://css-tricks.com)
+- [**Sophie Alpert**](https://sophiebits.com)
 
 ## Additional Resources
 
-- [**ThoughtWorks**](thoughtworks.com/radar)
+- [**ThoughtWorks**](https://thoughtworks.com/radar)
